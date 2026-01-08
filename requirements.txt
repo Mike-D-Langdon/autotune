@@ -1,5 +1,0 @@
-librosa
-soundfile
-psola
-numpy
-scipy
