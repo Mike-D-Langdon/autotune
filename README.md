@@ -11,11 +11,7 @@ A web-based autotune application with a NiceGUI interface for applying pitch cor
 
 ## Installation
 
-```bash
-pip install -r requirements.txt
-```
-
-Or using the pyproject.toml:
+Using the pyproject.toml:
 
 ```bash
 pip install .
